@@ -24,7 +24,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
- *
+ *TAREA NORA ARELLANO INTERFAZ GRÁFICA
  * @author norap
  */
 public class InterfazConvolucion extends javax.swing.JFrame {
